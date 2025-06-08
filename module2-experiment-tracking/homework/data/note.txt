@@ -1,0 +1,6 @@
+Because git storage limitation data files aren't uploaded.
+
+Please download data files from: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page:
+- green_tripdata_2023-01.parquet
+- green_tripdata_2023-02.parquet
+- green_tripdata_2023-03.parquet
