@@ -1,5 +1,3 @@
-To orchestrate your provided machine learning code using **Prefect** on Windows 10, I'll guide you through the step-by-step installation of Prefect and show you how to convert your script into a Prefect workflow (similar to Airflow DAGs). Prefect is a modern workflow orchestration tool that allows you to define, schedule, and monitor data pipelines as tasks and flows.
-
 ### Step-by-Step Installation of Prefect on Windows 10
 
 #### Prerequisites
